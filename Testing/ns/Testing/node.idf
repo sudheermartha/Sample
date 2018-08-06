@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">LyoqCiAqIFVzZWQgYnkgIm11bHRpQ29uY2F0IgogKiAKICovCnByaXZhdGUgc3RhdGljIFN0cmlu
+ZyBjaGVja051bGwoU3RyaW5nIGlucHV0U3RyaW5nKQp7CiAgaWYgKGlucHV0U3RyaW5nID09IG51
+bGwpCiAgICByZXR1cm4gIiI7CiAgZWxzZQogICAgcmV0dXJuIGlucHV0U3RyaW5nOwp9Cg==</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.util.*</value>
+    <value>java.util.Stack </value>
+    <value>com.wm.app.b2b.server.InvokeState</value>
+    <value>com.wm.app.b2b.server.ServerAPI</value>
+    <value>com.wm.lang.ns.NSService</value>
+    <value>com.wm.app.b2b.server.Service</value>
+    <value>com.wm.app.audit.IAuditRuntime</value>
+    <value>com.wm.app.audit.*</value>
+    <value>java.io.*</value>
+    <value>java.util.*</value>
+    <value>java.text.*</value>
+  </array>
+</Values>
